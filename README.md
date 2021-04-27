@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sejinpaik
-- 👀 I’m interested in digital media, media psychology, storytelling. Obsessed with TikTok influencers and unlikely connections. 
+- 👀 I’m interested in digital media, media psychology and HCI. Obsessed with TikTok influencers and unlikely connections. 
 - 🌱 I’m currently learning (very basic) NLP. :) 
 - 💞️ I’m looking to collaborate on text and image data analysis!
 - 📫 How to reach me: sejin@bu.edu! 
